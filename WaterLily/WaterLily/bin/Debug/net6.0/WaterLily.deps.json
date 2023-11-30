@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WaterLily/1.0.0": {
+        "dependencies": {
+          "WaterLily.Models": "1.0.0"
+        },
+        "runtime": {
+          "WaterLily.dll": {}
+        }
+      },
+      "WaterLily.Models/1.0.0": {
+        "runtime": {
+          "WaterLily.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WaterLily/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WaterLily.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

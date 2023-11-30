@@ -1,0 +1,12 @@
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily.Models\bin\Debug\net6.0\WaterLily.Models.deps.json
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily.Models\bin\Debug\net6.0\WaterLily.Models.dll
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily.Models\bin\Debug\net6.0\WaterLily.Models.pdb
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily.Models\obj\Debug\net6.0\WaterLily.Models.csproj.AssemblyReference.cache
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily.Models\obj\Debug\net6.0\WaterLily.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily.Models\obj\Debug\net6.0\WaterLily.Models.AssemblyInfoInputs.cache
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily.Models\obj\Debug\net6.0\WaterLily.Models.AssemblyInfo.cs
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily.Models\obj\Debug\net6.0\WaterLily.Models.csproj.CoreCompileInputs.cache
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily.Models\obj\Debug\net6.0\WaterLily.Models.dll
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily.Models\obj\Debug\net6.0\refint\WaterLily.Models.dll
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily.Models\obj\Debug\net6.0\WaterLily.Models.pdb
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily.Models\obj\Debug\net6.0\ref\WaterLily.Models.dll

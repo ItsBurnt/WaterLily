@@ -29,3 +29,6 @@ C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily\obj\Debug\net6.0\refint\Wat
 C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily\obj\Debug\net6.0\WaterLily.pdb
 C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily\obj\Debug\net6.0\WaterLily.genruntimeconfig.cache
 C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily\obj\Debug\net6.0\ref\WaterLily.dll
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily\bin\Debug\net6.0\WaterLily.Models.dll
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily\bin\Debug\net6.0\WaterLily.Models.pdb
+C:\Brent\Personal\Repo\WaterLily\WaterLily\WaterLily\obj\Debug\net6.0\WaterLily.csproj.CopyComplete
